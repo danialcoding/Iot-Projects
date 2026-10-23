@@ -1,6 +1,7 @@
 #define BLYNK_TEMPLATE_ID "TMPL63r4tVDL2"
 #define BLYNK_TEMPLATE_NAME "burglar alarm"
-#define BLYNK_AUTH_TOKEN "dB6-6NlnZKBPpl01koCgci4K1DrXHQ9D"
+// Replace with the Auth Token from your own Blynk device. Do not commit a real token.
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 
 #include <SoftwareSerial.h>
 #include <BlynkSimpleStream.h>

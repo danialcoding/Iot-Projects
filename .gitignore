@@ -1,0 +1,10 @@
+# Arduino IDE and arduino-cli build output. Proteus loads the .hex
+# from these paths; compile the sketch locally before simulating.
+**/build/
+*.hex
+*.elf
+*.bin
+*.eep
+
+# Proteus automatic backups (Project Backups folders and autosaves).
+**/Project Backups/

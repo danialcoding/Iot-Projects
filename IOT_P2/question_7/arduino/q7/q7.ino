@@ -1,6 +1,7 @@
 #define BLYNK_TEMPLATE_ID "TMPL6tbf_dx2N"
 #define BLYNK_TEMPLATE_NAME "controler"
-#define BLYNK_AUTH_TOKEN "cLqx2YdUMnmP2cXt0a5jMt5yb6mS5w-1"
+// Replace with the Auth Token from your own Blynk device. Do not commit a real token.
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 
 #include <SoftwareSerial.h>
 #include <BlynkSimpleStream.h>
