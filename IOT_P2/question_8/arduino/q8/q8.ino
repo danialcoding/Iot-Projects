@@ -1,6 +1,7 @@
 #define BLYNK_TEMPLATE_ID "TMPL6z9Kuqr6J"
 #define BLYNK_TEMPLATE_NAME "thermometer"
-#define BLYNK_AUTH_TOKEN "9JEVg4ISW7GVh5puuSs8Kp_Zi79M-AGg"
+// Replace with the Auth Token from your own Blynk device. Do not commit a real token.
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 
 #include <SoftwareSerial.h>
 #include <BlynkSimpleStream.h>
